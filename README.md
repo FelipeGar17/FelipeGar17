@@ -106,12 +106,14 @@ Mesa de ayuda con gestión de incidencias, roles y dashboard.
 ## 📊 Estadísticas de GitHub
 <div align="center">
 
-<!-- Fondo y colores coherentes -->
-<img src="https://github-readme-stats.vercel.app/api?username=FelipeGar17&show_icons=true&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=FFFFFF" alt="Stats">
+<!-- Estadísticas generales -->
+<img src="https://github-readme-stats.vercel.app/api?username=FelipeGar17&show_icons=true&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=FFFFFF" alt="GitHub Stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeGar17&layout=compact&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=FFFFFF" alt="Top Langs">
+<!-- Lenguajes más usados -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeGar17&layout=compact&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=FFFFFF" alt="Top Languages" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=FelipeGar17&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6&sideNums=FFFFFF&dates=9ca3af&currStreakNum=FFFFFF&sideLabels=FFFFFF" alt="Streak">
+<!-- Racha de contribuciones -->
+<img src="https://streak-stats.demolab.com?user=FelipeGar17&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6&sideNums=FFFFFF&dates=9ca3af&currStreakNum=FFFFFF&sideLabels=FFFFFF" alt="GitHub Streak" />
 
 </div>
 
