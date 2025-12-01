@@ -109,11 +109,8 @@ Mesa de ayuda con gestión de incidencias, roles y dashboard.
 <!-- Estadísticas generales -->
 <img src="https://github-readme-stats.vercel.app/api?username=FelipeGar17&show_icons=true&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=FFFFFF" alt="GitHub Stats" />
 
-<!-- Lenguajes más usados -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeGar17&layout=compact&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=FFFFFF" alt="Top Languages" />
-
-<!-- Racha de contribuciones -->
-<img src="https://streak-stats.demolab.com?user=FelipeGar17&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6&sideNums=FFFFFF&dates=9ca3af&currStreakNum=FFFFFF&sideLabels=FFFFFF" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api?username=FelipeGar17&show_icons=true&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=FFFFFF&cache_seconds=7200" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeGar17&layout=compact&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=FFFFFF&cache_seconds=7200" />
 
 </div>
 
