@@ -4,7 +4,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=120&section=header&text=Johan%20Felipe%20Pab%C3%B3n%20Garc%C3%ADa&fontSize=34&fontColor=3B82F6&desc=Desarrollador%20Frontend%20%7C%20Fullstack&descAlignY=75&descAlign=50" alt="Banner">
 
   <!-- Foto de perfil (sube assets/profile.jpg y se mostrará) -->
-  <img src="assets/profile.jpg" alt="Foto de perfil de Felipe" width="140">
+  <img src="assets/profile.png" alt="Foto de perfil de Felipe" width="140">
 
   <!-- Animación de texto -->
   <p>
