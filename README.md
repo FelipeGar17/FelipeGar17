@@ -2,7 +2,7 @@
   
 # 👨‍💻 Johan Felipe Pabón García
 
-[![Typing SVG](https://readme-typing-svg.demolab.com? font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Desarrollador+Fullstack;Especialista+en+Arquitectura+de+Software;Apasionado+por+la+Innovaci%C3%B3n+y+el+Dise%C3%B1o)](https://git.io/typing-svg)
+[![TypingSVG](https://readme-typing-svg.demolab.com? font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Desarrollador+Fullstack;Especialista+en+Arquitectura+de+Software;Apasionado+por+la+Innovaci%C3%B3n+y+el+Dise%C3%B1o)](https://git.io/typing-svg)
 
 [![GitHub followers](https://img.shields.io/github/followers/FelipeGar17?style=social)](https://github.com/FelipeGar17)
 [![GitHub User's stars](https://img.shields.io/github/stars/FelipeGar17?style=social)](https://github.com/FelipeGar17)
@@ -26,8 +26,8 @@ Mi enfoque principal está en el **desarrollo frontend** y la **experiencia de u
 ## 🛠️ Stack Tecnológico
 
 ### Frontend
-![HTML5](https://img.shields. io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6. svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
