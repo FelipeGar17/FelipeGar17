@@ -2,9 +2,9 @@
   
 # 👨‍💻 Johan Felipe Pabón García
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Desarrollador+Fullstack;Especialista+en+Arquitectura+de+Software;Apasionado+por+la+Innovaci%C3%B3n+y+el+Dise%C3%B1o)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com? font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Desarrollador+Fullstack;Especialista+en+Arquitectura+de+Software;Apasionado+por+la+Innovaci%C3%B3n+y+el+Dise%C3%B1o)](https://git.io/typing-svg)
 
-[![GitHub followers](https://img.shields. io/github/followers/FelipeGar17?style=social)](https://github.com/FelipeGar17)
+[![GitHub followers](https://img.shields.io/github/followers/FelipeGar17?style=social)](https://github.com/FelipeGar17)
 [![GitHub User's stars](https://img.shields.io/github/stars/FelipeGar17?style=social)](https://github.com/FelipeGar17)
 
 </div>
@@ -15,7 +15,7 @@
 
 Soy **Tecnólogo en Desarrollo de Sistemas Informáticos** en las Unidades Tecnológicas de Santander (6 semestres cursados), con una profunda pasión por **construir y maquetar** soluciones tecnológicas desde su arquitectura base.  
 
-Mi enfoque principal está en el **desarrollo frontend** y la **experiencia de usuario**, combinando creatividad, innovación y un alto nivel de pensamiento analítico para resolver problemas complejos.  Me especializo en diseñar sistemas escalables, intuitivos y visualmente atractivos. 
+Mi enfoque principal está en el **desarrollo frontend** y la **experiencia de usuario**, combinando creatividad, innovación y un alto nivel de pensamiento analítico para resolver problemas complejos. Me especializo en diseñar sistemas escalables, intuitivos y visualmente atractivos.  
 
 🎯 **Actualmente buscando:** Oportunidades laborales y prácticas profesionales  
 🌱 **Aprendiendo:** Nuevas tecnologías en arquitectura de software y DevOps  
@@ -26,11 +26,11 @@ Mi enfoque principal está en el **desarrollo frontend** y la **experiencia de u
 ## 🛠️ Stack Tecnológico
 
 ### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26. svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields. io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6. svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img. shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### Backend
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -45,11 +45,11 @@ Mi enfoque principal está en el **desarrollo frontend** y la **experiencia de u
 
 ### Bases de Datos
 ![MySQL](https://img.shields. io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MongoDB](https://img.shields. io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Herramientas & DevOps
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23181717. svg?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields. io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
@@ -67,12 +67,11 @@ Mi enfoque principal está en el **desarrollo frontend** y la **experiencia de u
 - 🎨 **Diseño profesional** con paleta industrial (blanco, negro, naranja)
 - 🚀 **Tecnologías:** Spring Boot 3. 5. 7, Java 21, MongoDB, Bootstrap 5
 
-[![Ver Proyecto](https://img.shields.io/badge/Ver_Proyecto-%23181717? style=for-the-badge&logo=github&logoColor=white)](https://github.com/FelipeGar17/InduManage)
-[![Demo Live](https://img.shields.io/badge/Demo_Live-%2300C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://indumanage-production.up.railway.app/)
+[![Ver Proyecto](https://img.shields.io/badge/Ver_Proyecto-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FelipeGar17/InduManage)
 
 ---
 
-### 🛢️ [Sistema de Inventario Petrolera](https://github.com/FelipeGar17/Sis.InventoryPetrolera)
+### 🛢️ [Sistema de Inventario Petrolera](https://github.com/FelipeGar17/Sis. InventoryPetrolera)
 **Gestión de inventario y documentación técnica** para centrales petroleras con control de roles y sistema de reportes completo.
 
 - ✅ **CI/CD automatizado** con GitHub Actions
@@ -82,11 +81,11 @@ Mi enfoque principal está en el **desarrollo frontend** y la **experiencia de u
 - 🚀 **Tecnologías:** Flask 3.0, Python 3.11, MySQL 8.0, Tailwind CSS
 
 [![Ver Proyecto](https://img.shields.io/badge/Ver_Proyecto-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FelipeGar17/Sis.InventoryPetrolera)
-[![Demo Live](https://img.shields.io/badge/Demo_Live-%2300C7B7?style=for-the-badge&logo=railway&logoColor=white)](https://sisinventorypetrolera-production.up.railway.app/)
+[![Demo Live](https://img.shields. io/badge/Demo_Live-%2300C7B7?style=for-the-badge&logo=railway&logoColor=white)](https://sisinventorypetrolera-production.up.railway.app/)
 
 ---
 
-### 🎫 [Sistema de Tickets de Soporte](https://github.com/FelipeGar17/NuevasTecnologias)
+### 🎫 [Sistema de Tickets de Soporte](https://github. com/FelipeGar17/NuevasTecnologias)
 **Mesa de ayuda técnica** con gestión de tickets, roles diferenciados y dashboard estadístico para empresas e instituciones educativas.
 
 - 👥 **3 roles:** Cliente, Técnico, Administrador
@@ -162,10 +161,10 @@ const felipeGarcia = {
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-jfelipepabong%40gmail.com-%23EA4335? style=for-the-badge&logo=gmail&logoColor=white)](mailto:jfelipepabong@gmail.com)
+[![Email](https://img.shields.io/badge/Email-jfelipepabong%40gmail.com-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jfelipepabong@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B57_320_779_2998-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/573207792998)
 [![GitHub](https://img.shields.io/badge/GitHub-FelipeGar17-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://github. com/FelipeGar17)
-[![Location](https://img.shields.io/badge/Ubicaci%C3%B3n-Bucaramanga%2C_Colombia-%233B82F6?style=for-the-badge&logo=google-maps&logoColor=white)](https://www.google.com/maps/place/Bucaramanga)
+[![Location](https://img.shields.io/badge/Ubicaci%C3%B3n-Bucaramanga%2C_Colombia-%233B82F6?style=for-the-badge&logo=google-maps&logoColor=white)](https://goo.gl/maps/bucaramanga)
 
 </div>
 
