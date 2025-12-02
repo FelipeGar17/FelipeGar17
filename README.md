@@ -78,7 +78,7 @@ Plataforma para gestión industrial: inventarios, mantenimiento y administració
 - 🎨 UI industrial profesional  
 - 🚀 Tecnologías: Spring Boot 3.5.7, Java 21, MongoDB, Bootstrap 5  
 [![Repositorio](https://img.shields.io/badge/Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FelipeGar17/InduManage)
-[![Demo](https://img.shields.io/badge/Demo_Live-00C7B7?style=for-the-badge&logo=railway&logoColor=white)](https://sisinventorypetrolera-production.up.railway.app/)
+[![Demo](https://img.shields.io/badge/Demo_Live-00C7B7?style=for-the-badge&logo=railway&logoColor=white)](https://indumanage-production.up.railway.app/index.html)
 ---
 
 ### 🛢️ Sistema de Inventario Petrolera
@@ -89,7 +89,6 @@ Control de inventarios y documentación técnica en centrales petroleras.
 - 🔒 Seguridad con JWT + bcrypt  
 - 🚀 Tecnologías: Flask 3, Python 3.11, MySQL, Tailwind  
 [![Repositorio](https://img.shields.io/badge/Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FelipeGar17/Sis.InventoryPetrolera)
-[![Demo](https://img.shields.io/badge/Demo_Live-00C7B7?style=for-the-badge&logo=railway&logoColor=white)](https://indumanage-production.up.railway.app/index.html)
 
 ---
 
